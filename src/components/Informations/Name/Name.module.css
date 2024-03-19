@@ -1,0 +1,20 @@
+.name-container {
+  position: relative;
+
+  padding: 1.4rem 0;
+  margin-left: 85%;
+
+  color: #212124;
+  font-size: 1.15rem;
+  font-weight: 500;
+}
+
+.name-wrapper {
+  width: fit-content;
+  height: fit-content;
+  transform: translateX(-100%);
+}
+
+.date {
+  padding-top: 1.2rem;
+}

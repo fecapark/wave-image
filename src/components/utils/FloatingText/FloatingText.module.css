@@ -1,0 +1,13 @@
+.floating-text {
+  width: fit-content;
+  height: fit-content;
+
+  overflow: hidden;
+}
+
+.text {
+  width: fit-content;
+  height: fit-content;
+
+  transform: translateY(100%);
+}

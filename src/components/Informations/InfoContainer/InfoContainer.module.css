@@ -1,0 +1,12 @@
+.info-container {
+  position: absolute;
+  top: 60%;
+  left: 74%;
+
+  font-weight: 600;
+  font-size: 6rem;
+
+  transform: translateY(-50%);
+
+  z-index: 100;
+}
